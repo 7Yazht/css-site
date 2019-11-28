@@ -1,0 +1,169 @@
+h1 {
+  font-size: 3em;
+  position: relative;
+  top: 120px;
+  color: purple;
+  margin: 0 auto;
+  width: 20%;
+  color: grey;
+
+  font-family: 'Calistoga', cursive;
+}
+h2{
+  padding-bottom: 10px;
+  font-size: 2em;
+  color: #11999e;
+}
+h3{
+  color: #11999e;
+}
+
+hr{
+  margin: 100px auto;
+  border: dotted #a8d8ea 8px;
+  border-bottom: none;
+  width:4%;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #e4f9f5;
+  font-size: 20px;
+}
+a{
+  margin: 10px 10px;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+.copyright{
+  color:white;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.pro {
+
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+  top: 140px;
+  color: grey;
+
+}
+.intro{
+  width:30%;
+  margin: auto;
+}
+
+.top-container {
+  position: relative;
+
+  height: 1000px;
+  width: 100%;
+  background-color: #a6e3e9;
+}
+
+.middle-container {
+  margin: 100px 0;
+font-family: 'Montserrat', sans-serif;
+}
+
+.bottom-container {
+  padding: 50px 0 30px;
+  background-color: #95e1d3;
+font-family: 'Montserrat', sans-serif;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 350px;
+  height: 200px;
+  width: 450px;
+}
+
+.bt-cloud {
+  position: absolute;
+  left: 500px;
+  height: 200px;
+  width: 300px;
+
+}
+
+.re-moun {
+  position: relative;
+  height: 300px;
+  width: 100%;
+  top: 500px;
+  right :150px;
+}
+
+.moun {
+  position: absolute;
+  width: 50%;
+  right: 300px;
+  bottom: 0;
+}
+
+.skill-row{
+  width: 50%;
+  margin:auto;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.qulification{
+  padding-top:0.5em;
+}
+
+.btn {
+	box-shadow:inset 0px 1px 0px 0px #97c4fe;
+	background:linear-gradient(to bottom, #30e3cb 5%, #2bc4ad 100%);
+	background-color:#30e3cb;
+	border-radius:10px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:25px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #0032fa;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #2bc4ad 5%, #30e3cb 100%);
+	background-color:#2bc4ad;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+#mike-pic{
+  border-radius: 50%;
+  height:70%;
+  width: 170px;
+
+}
+#computer{
+  height: 200px;
+  width: 25% ;
+  margin-right: 30px;
+  float: left;
+}
+#graduate{
+  height: 200px;
+  width: 25% ;
+  float: right;
+}
